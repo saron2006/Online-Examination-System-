@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212223230197
+# Name: SARON XAVIER A
+# Date:18-11-2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="893" height="808" alt="image" src="https://github.com/user-attachments/assets/b6c2504a-0c9a-41cf-a40c-8937f51508e5" />
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="745" height="746" alt="image" src="https://github.com/user-attachments/assets/a7787098-6494-46e6-97e9-e0a451bae508" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="722" height="447" alt="image" src="https://github.com/user-attachments/assets/3134a491-9655-4208-b773-d25e54513bcf" />
 
 
 # PACKAGE DIAGRAM:
@@ -78,6 +81,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="930" height="527" alt="image" src="https://github.com/user-attachments/assets/fa82ec86-93ca-459b-8f28-0a181ddad859" />
 
 
 
@@ -95,6 +99,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1044" height="1506" alt="image" src="https://github.com/user-attachments/assets/f537b89c-021d-4fad-93d1-052c5c717fd2" />
 
 
 
@@ -105,6 +110,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+<img width="935" height="716" alt="image" src="https://github.com/user-attachments/assets/f50f1736-5178-4a95-97cb-bdf88e505a1b" />
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
@@ -124,4 +130,3 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop Online Examination system was developed using Star UML Software is done successfully.
-
